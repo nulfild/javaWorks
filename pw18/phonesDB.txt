@@ -1,0 +1,2 @@
+PhoneDTO{id=9, name='Ger', creationYear=202, manufactures=null}
+PhoneDTO{id=10, name='Ksu', creationYear=20224, manufactures=null}

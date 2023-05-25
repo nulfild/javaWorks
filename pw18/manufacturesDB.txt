@@ -1,0 +1,1 @@
+ManufactureDTO{id=10, name='Man2', address='there', phone=null}
